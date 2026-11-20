@@ -1,0 +1,6 @@
+# ضمان سلوك موحّد للأسطر على كل الأنظمة (مهم لـ Render/Linux)
+* text=auto eol=lf
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.woff2 binary
